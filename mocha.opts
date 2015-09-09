@@ -1,0 +1,4 @@
+--compilers coffee:coffee-react/register -R spec ./src/client/test/setup-node.coffee ./src/client/**/*.spec.cjsx
+--require coffee-coverage/register-istanbul
+--recursive
+--reporter spec

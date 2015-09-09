@@ -1,0 +1,11 @@
+.feed {
+  display: flex;
+  flex-flow: row wrap;
+  width: 1698px;
+}
+
+.card {
+  margin: 10px auto;
+  width: 320px;
+}
+
